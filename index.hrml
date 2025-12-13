@@ -1,0 +1,17 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>윷퀴즈 참가서</title>
+<style>
+body{
+  margin:0; font-family:system-ui, -apple-system, "Noto Sans KR", sans-serif;
+  background:#f5f6fa; display:flex; justify-content:center;
+}
+.wrap{width:min(720px,100%); padding:20px}
+.card{
+  background:#fff; border-radius:16px; padding:20px;
+  box-shadow:0 10px 25px rgba(0,0,0,.08);
+}
+h1{font-size:28px; margin:0 0 16px; text-ali
